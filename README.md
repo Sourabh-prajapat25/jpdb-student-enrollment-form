@@ -31,17 +31,26 @@ This project is a web-based Student Enrollment Form that performs CRUD operation
 - v1.0 - Initial release with Student Form and CRUD operations using JPDB
 
 ## 📷 Screenshots
+
 ### 🟢 Form UI
-![Form UI](Student form.png)
+<p align="center">
+  <img src="Student-form.png" width="500"/>
+</p>
 
 ### 🟡 Data Entry
-![Data Filled](data filled.png)
+<p align="center">
+  <img src="data-filled.png" width="500"/>
+</p>
 
 ### 🔵 Data Saved
-![Data Saved](data save.png)
+<p align="center">
+  <img src="data-save.png" width="500"/>
+</p>
 
 ### 🟣 Data Retrieved
-![Data Shown](data shown.png)
+<p align="center">
+  <img src="data-shown.png" width="500"/>
+</p>
 
 ## 📌 Scope of Functionalities
 - Save new records
@@ -54,4 +63,4 @@ This project is a web-based Student Enrollment Form that performs CRUD operation
 - JPDB Documentation
 
 ## 📊 Project Status
-✅ Completed and ready for submission
+✅ Completed and ready for View
